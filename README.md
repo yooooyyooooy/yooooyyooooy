@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![n4sunday stats](https://github-readme-stats.vercel.app/api/wakatime?username=yooooyyooooy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![yooooyyooooy stats](https://github-readme-stats.vercel.app/api/wakatime?username=yooooyyooooy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
